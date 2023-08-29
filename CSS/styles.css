@@ -1,0 +1,40 @@
+body {
+  background-color: #eaf6f6;
+  padding: 0.5%;
+  font-size: 18px;
+}
+
+hr {
+  color: grey;
+}
+
+h1 {
+  font-family: Georgia;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: #529c9c;
+}
+
+p {
+  margin-top: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  margin: 1%;
+}
+
+.idol {
+  border: black 2px solid;
+}
+
+pre{
+  line-height: 25px;
+}
